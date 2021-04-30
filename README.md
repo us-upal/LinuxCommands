@@ -1,5 +1,6 @@
 # LinuxCommands
 ##1.File System Commands
+1. ```find . -type f``` # all the file of dir and subdir
 ```commandline
 # BIOS = Basic Input Output System
 1. ls -a             # list with hidden files
