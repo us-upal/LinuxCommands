@@ -22,11 +22,12 @@
 15. cp -R <dir>/ <cpydir> # copy dir
 16. mv <dir> <renameDir>  # rename dir
 17. rm -rf <dir>          # force remove including file
-18.
-19.
-20.
-21.
-22.
+
+18. find .                # showing all the file in this dir
+19. find <dir_location>
+20. find . -type d        # all the dir and subdir
+21. find . -type f        # all the file of dir and subdir
+22. 
 23.
 24.
 25.
